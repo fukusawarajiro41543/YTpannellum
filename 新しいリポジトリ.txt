@@ -1,0 +1,32 @@
+
+
+YTpannellum
+
+
+https://github.com/fukusawarajiro41543/YTpannellum.git
+
+
+ＵＲＬ
+https://fukusawarajiro41543.github.io/YTpannellum/index.html
+
+
+サンプル－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+<iframe width="600" height="400" allowfullscreen="" style="border-style:none;" 
+     src="https://naoyastyle.net/wp-content/themes/swell/pannellum/pannellum.htm
+#panorama=https://naoyastyle.net/wp-content/uploads/2022/02/beach-ge3ac2658e_1920.jpg
+&autoLoad=true"></iframe>
+
+
+<iframe width="600" height="400" allowfullscreen="" style="border-style:none;" 
+src="https://naoyastyle.net/wp-content/themes/swell/pannellum/pannellum.htm
+#panorama=https://naoyastyle.net/wp-content/uploads/2022/02/beach-ge3ac2658e_1920.jpg
+&amp;autoLoad=true&autoRotate=-2"></iframe>
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+
+<iframe width="600" height="400" allowfullscreen="" style="border-style:none;" 
+src="https://fukusawarajiro41543.github.io/YTpannellum/index.html
+#panorama=https://fukusawarajiro41543.github.io/YTpannellum/beach-ge3ac2658e_1920.jpg
+&autoLoad=true"></iframe>
+
+
