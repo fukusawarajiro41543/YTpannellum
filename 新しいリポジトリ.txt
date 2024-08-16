@@ -7,7 +7,7 @@ https://github.com/fukusawarajiro41543/YTpannellum.git
 
 
 ＵＲＬ
-https://fukusawarajiro41543.github.io/YTpannellum/index.html
+https://fukusawarajiro41543.github.io/YTpannellum/example.html
 
 
 サンプル－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
@@ -25,8 +25,8 @@ src="https://naoyastyle.net/wp-content/themes/swell/pannellum/pannellum.htm
 
 
 <iframe width="600" height="400" allowfullscreen="" style="border-style:none;" 
-src="https://fukusawarajiro41543.github.io/YTpannellum/index.html
-#panorama=https://fukusawarajiro41543.github.io/YTpannellum/beach-ge3ac2658e_1920.jpg
+src="https://fukusawarajiro41543.github.io/YTpannellum/pannellum.html
+#panorama=https://fukusawarajiro41543.github.io/YTpannellum/hello.jpg
 &autoLoad=true"></iframe>
 
 
